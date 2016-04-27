@@ -14,10 +14,14 @@ logo: "/assets/images/logo-square.png"
 bars: "/assets/images/bars.png"
 # blog cover
 cover: "/assets/images/cover.jpg"
+footer_image: "/assets/images/banner4.jpg"
 
 name: 'Livrados.com'
 author: 'Edson Ferreira Júnior'
 author_image: "/assets/images/author.png"
+author_bio: >
+  CEO do Livrados.com e Full Stack Developer. 
+  Apaixonado por livros desde sempre, criou o Livrados.com para facilitar o acesso aos livros e difundir esse amor pela leitura com o maior número de pessoas.
 
 paginate:	5
 
@@ -31,12 +35,12 @@ permalink: /:title/
 
 # social icons and sharing options
 social:
-  # - icon:	twitter
-  #   url:	https://twitter.com/dirkfabisch
-  #   desc: Follow me on twitter
-  #   share_url: http://twitter.com/share
-  #   share_title: ?text=
-  #   share_link: "&amp;url="
+ # - icon:	twitter
+ #   url:	https://twitter.com/dirkfabisch
+ #   desc: Follow me on twitter
+ #   share_url: http://twitter.com/share
+ #   share_title: ?text=
+ #   share_link: "&amp;url="
 
  - icon:	facebook
    url:	https://facebook.com/livrados

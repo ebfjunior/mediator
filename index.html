@@ -3,14 +3,14 @@ layout: default
 ---
 
 <div class="teaserimage">
-    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{site.github.url}}/{{ site.cover }})"{% endif %}>
+    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{site.baseurl}}/{{ site.cover }})"{% endif %}>
         Teaser Image
     </div>
 </div>
 
 <header class="blog-header">
     {% if site.logo %}
-      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{site.github.url}}/{{ site.logo }}')">{{ site.title }}</a>
+      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{site.baseurl}}/{{ site.logo }}')">{{ site.title }}</a>
     {% endif %}
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
@@ -37,7 +37,7 @@ layout: default
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{site.github.url}}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+              <h2 class="post-title" itemprop="name"><a href="{{site.baseurl}}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
             <section class="post-excerpt" itemprop="description">
               <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
@@ -54,14 +54,14 @@ layout: default
 
     <nav class="pagination" role="navigation">
       {% if paginator.next_page %}
-        <a class="newer-posts" href="{{site.github.url}}/page{{paginator.next_page}}">&larr; Older posts</a>
+        <a class="newer-posts" href="{{site.baseurl}}/page{{paginator.next_page}}">&larr; Older posts</a>
       {% endif %}
       <span class="page-number">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
       {% if paginator.previous_page %}
         {% if paginator.page == 2 %}
-          <a class="older-posts" href="{{site.github.url}}">Posts recentes &rarr;</a>
+          <a class="older-posts" href="{{site.baseurl}}">Posts recentes &rarr;</a>
         {% else %}
-          <a class="older-posts" href="{{site.github.url}}/page{{paginator.previous_page}}">Posts recentes &rarr;</a>
+          <a class="older-posts" href="{{site.baseurl}}/page{{paginator.previous_page}}">Posts recentes &rarr;</a>
         {% endif %}
       {% endif %}
     </nav>

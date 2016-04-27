@@ -8,6 +8,7 @@ title: "Livrados.com"
 description: > # this means to ignore newlines until "email:"
    A Plataforma Online de Compra Colaborativa de Livros
 
+markdown: kramdown
 email: ejunior.batista@gmail.com
 #blog logo
 logo: "/assets/images/logo-square.png"

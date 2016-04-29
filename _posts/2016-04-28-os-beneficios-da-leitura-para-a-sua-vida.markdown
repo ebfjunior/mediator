@@ -5,7 +5,7 @@ date:   2016-04-28 21:20
 categories: leitura
 tags: beneficios leitura vantagens
 image: /assets/article_images/2016-04-28-os-beneficios-da-leitura-para-a-sua-vida/girls-reading.jpg
-<!-- image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG -->
+image2: /assets/article_images/2016-04-28-os-beneficios-da-leitura-para-a-sua-vida/girls-reading2.jpg
 ---
 
 Em um mundo onde plataformas de entreterimento como Facebook e Instagram se tornaram praticamente onipresentes na vida das pessoas, 

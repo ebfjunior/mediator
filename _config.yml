@@ -25,7 +25,7 @@ author_bio: >
 
 paginate:	5
 
-url: "http://ebfjunior.github.io" # the base hostname & protocol for your site
+url: "http://blog.livrados.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 # twitter_handle: '@dirkfabisch'

@@ -21,8 +21,7 @@ name: 'Livrados.com'
 author: 'Edson Ferreira Júnior'
 author_image: "/assets/images/author.png"
 author_bio: >
-  CEO do Livrados.com e Full Stack Developer. 
-  Apaixonado por livros desde sempre, criou o Livrados.com para facilitar o acesso aos livros e difundir esse amor pela leitura com o maior número de pessoas.
+  CEO do Livrados.com, Full Stack Developer e apaixonado por livros desde sempre, criou a plataforma Livrados.com para facilitar o acesso aos livros e difundir esse amor pela leitura com o maior número de pessoas possível.
 
 paginate:	5
 
@@ -32,7 +31,7 @@ baseurl: ""
 # twitter_handle: '@dirkfabisch'
 permalink: /:title/
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+disqus: livrados
 
 # social icons and sharing options
 social:

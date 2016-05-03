@@ -13,15 +13,15 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   {% if site.twitter_handle %}
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="{{ site.twitter_handle }}" />
-    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-    <meta name="twitter:image" content="{{ site.logo | prepend: site.url }}" />
-    {% if page.excerpt %}
-    <meta name="twitter:description"  content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}" />
-    {% elsif site.description %}
-    <meta name="twitter:description" content="{{ site.description | strip_html | strip_newlines | truncate: 200 }}" />
-    {% endif %}
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="{{ site.twitter_handle }}" />
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta name="twitter:image" content="{{ site.logo | prepend: site.url }}" />
+  {% if page.excerpt %}
+  <meta name="twitter:description"  content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}" />
+  {% elsif site.description %}
+  <meta name="twitter:description" content="{{ site.description | strip_html | strip_newlines | truncate: 200 }}" />
+  {% endif %}
   {% endif %}
   
   <meta property="og:site_name" content="{{ site.title }}" />
@@ -43,4 +43,15 @@
 
   <link rel="stylesheet" type="text/css" media="screen" href="{{ "/css/main.css"  | prepend: site.baseurl  }}" />
   <link rel="stylesheet" type="text/css" media="print" href="{{ "/css/print.css"  | prepend: site.baseurl  }}" />
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-62613382-3', 'auto');
+    ga('send', 'pageview');
+
+  </script>
 </head>

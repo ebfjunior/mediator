@@ -23,14 +23,14 @@ Executada pelo próprio pai de Sansa, Eddard Stark, às ordens da Rainha Cersei,
 por um ataque causado por outro lobo gigante.
 
 Nymeria, a loba de Arya Stark, a ajuda a defender seu amigo das mãos do Príncipe Joffrey Baratheon, e acaba ferindo seu braço.
-Sabendo que sua loba provavelmente sofreria as consequências, acobertou a sua fuga, fazendo com que Lady fosse executada injustamente, já que era a loba mais próxima.
+Sabendo que sua fiel companheira provavelmente sofreria as consequências, acobertou a sua fuga, fazendo com que Lady fosse executada injustamente, já que era a loba mais próxima.
 
 ### Robert Baratheon
 ![Robert Baratheon em seu leito de morte](/assets/article_images/2016-05-03-as-10-maiores-mortes-de-as-cronicas-de-gelo-e-fogo/robert-baratheon.jpg)
 No início da história, os leitores/telespectadores ainda não tinham ciência da imensa onda de mortes de personagens teoricamente fundamentais que estava por vir.
 
 Após seu escudeiro lhe dar um vinho extremamente forte no meio de uma caçada, o Rei Robert sofreu uma cruel investida de um javali selvagem. A morte foi uma das muitas
-encomendadas pela Rainha Cersei, e foi o estopim para o início de uma disputa desenfreada pelo poder.
+encomendadas pela Rainha Cersei, e foi o estopim para o início de uma disputa desenfreada pelo Trono de Ferro.
 
 ### Viserys Targarien
 ![Khal Drogo e Viserys Targaryen com sua coroa derretida](/assets/article_images/2016-05-03-as-10-maiores-mortes-de-as-cronicas-de-gelo-e-fogo/viserys-targaryen.jpg)
@@ -41,14 +41,13 @@ Viserys teve derramado sobre a sua cabeça, ouro derretido, simbolizando a sua t
 
 ### Khal Drogo
 ![Daenerys Targaryen e Khal Drogo gravemente ferido](/assets/article_images/2016-05-03-as-10-maiores-mortes-de-as-cronicas-de-gelo-e-fogo/khal-drogo.jpg)
-Líder do maior khalazar do Mar Dothraki, Drogo prometeu à sua esposa Daenerys Targaryen que iria ajuda-la a conquistar os Sete Reinos
+Líder do maior khalazar do Mar Dothraki, Drogo prometeu à sua esposa Daenerys Targaryen que iria ajuda-la a conquistar os Sete Reinos,
 como vingança à todos aqueles que já atentaram contra a sua vida.
 
 Depois de atacar algumas cidades e derrotar um Khal rival com o objetivo de conseguir o ouro que financiaria a sua campanha contra Westeros, Drogo foi gravemente ferido.
-Desesperada para ther seu marido de volta, Daenerys suplicou que uma bruxa escrava realizasse um feitiço de sangue para curar Drogo, mas a bruxa decidiu se vingar do ataque à sua vila
-e sacrificou seu filho, além de deixar Drogo em um estado vegetativo.
+Desesperada para ter seu marido de volta, Daenerys suplicou para que uma bruxa escrava realizasse um feitiço de sangue para curar Drogo.
 
-Daenerys, não aguentando a situação em que se encontrava seu amado, o sufocou com um travesseiro, dando fim ao seu sofrimento.
+Mas a bruxa decidiu se vingar do ataque à sua vila e sacrificou o filho seu, além de deixar Drogo em um estado vegetativo. Daenerys, não aguentando a situação em que se encontrava seu amado, o sufocou com um travesseiro, dando fim ao seu sofrimento.
 
 ### Renly Baratheon
 ![Renly Baratheon antes de ser morto pela sombra](/assets/article_images/2016-05-03-as-10-maiores-mortes-de-as-cronicas-de-gelo-e-fogo/renly-baratheon.jpg)
@@ -61,7 +60,7 @@ A misteriosa sombra foi fruto de um feitiço realizado por Mellisandre, a Sacerd
 ![Kraznys sendo incinerado pelo dragão de Daenerys](/assets/article_images/2016-05-03-as-10-maiores-mortes-de-as-cronicas-de-gelo-e-fogo/dracarys.jpg)
 Kraznys foi um grande mercador de escravos na cidade de Astapor, e apareceu pela primeira vez quando Daenerys Targaryen demonstrou interesse em seu exército de imaculados.
 
-Daenerys concordou em trocar um de seus 3 dragões pelo exército, mas na última hora deu uma palavra de comando ao seu dragão e queimou Kraznys vivo, mantendo assim o seu dragão e ganhando um novo exército de imaculados.
+Daenerys concordou em trocar um de seus 3 dragões pelo exército, mas na última hora, com apenas uma palavra de comando, seu dragão queimou Kraznys vivo, ganhando ainda um novo exército de escravos, que seriam libertos em seguida.
 
 ### Jofrey Baratheon
 ![Joffrey Baratheon após ser envenenado em seu casamento](/assets/article_images/2016-05-03-as-10-maiores-mortes-de-as-cronicas-de-gelo-e-fogo/joffrey-baratheon.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "As 11 Mortes Mais Marcantes de As Crônicas de Gelo e Fogo"
-date:   2016-05-04 07:00
+date:   2016-05-04 08:00
 categories: leitura
 tags: game-of-thrones
 image: /assets/article_images/2016-05-03-as-10-maiores-mortes-de-as-cronicas-de-gelo-e-fogo/game-of-throne.jpg
@@ -14,7 +14,7 @@ com certeza é o seriado produzido e transmitido pela emissora HBO.
 Mas tanto aqueles que acompanham a história pela televisão, quanto os que preferem mergulhar nas páginas dos livros escritos por
 George R. R. Martin, já perderam a conta de quantas vezes foram surpreendidos por uma morte inesperada de algum personagem querido.
 
-**Confira aqui as 10 mortes mais marcantes da saga.**
+**Confira aqui as 11 mortes mais marcantes da saga.**
 
 ### Lady
 ![Lady e Eddard Stark](/assets/article_images/2016-05-03-as-10-maiores-mortes-de-as-cronicas-de-gelo-e-fogo/lady-eddard-stark.jpg)

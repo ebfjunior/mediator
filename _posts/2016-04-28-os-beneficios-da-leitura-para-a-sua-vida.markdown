@@ -42,7 +42,7 @@ Estudos apontam que as pessoas que praticam atividades como a leitura, diminuem 
 ### Aumento da criatividade
 A leitura é altamente recomendável para qualquer tipo de pessoa, mas, quem exerce alguma proffissão que demanda de mais criatividade, se beneficiará ainda mais.
 
-Isso porque a melhor maneira de estimular a criatividade, é o desfrute da maior quantidade possível experiências diversas.
+Isso porque a melhor maneira de estimular a criatividade, é o desfrute da maior quantidade possível de experiências diversas.
 
 E não podemos negar que os livros nos proporcionam exatamente isso. Nós podemos conhecer pessoas cativantes e inesquecíveis, visitar lugares remotos e inesperados, e experienciar situações inimagináveis.
 

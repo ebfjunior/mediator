@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "As 11 Mortes Mais Marcantes de As Crônicas de Gelo e Fogo"
-date:   2016-05-03 22:00
+date:   2016-05-04 07:00
 categories: leitura
 tags: game-of-thrones
 image: /assets/article_images/2016-05-03-as-10-maiores-mortes-de-as-cronicas-de-gelo-e-fogo/game-of-throne.jpg

@@ -44,7 +44,7 @@ A leitura é altamente recomendável para qualquer tipo de pessoa, mas, quem exe
 
 Isso porque a melhor maneira de estimular a criatividade, é o desfrute da maior quantidade possível de experiências diversas.
 
-E não podemos negar que os livros nos proporcionam exatamente isso. Nós podemos conhecer pessoas cativantes e inesquecíveis, visitar lugares remotos e inesperados, e experienciar situações inimagináveis.
+E não podemos negar que os livros nos proporcionam exatamente isso. Nós podemos conhecer pessoas cativantes e inesquecíveis, visitar lugares remotos e inesperados, e experimentar situações inimagináveis.
 
 ### Aprimoramento do senso crítico
 Você conhece uma daquelas pessoas que conseguem conversar sobre qualquer assunto, que parecem estar à par de tudo o que acontece à sua volta e no mundo? Provavelmente essa pessoa tem uma rotina constante de leitura.

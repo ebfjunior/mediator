@@ -77,7 +77,7 @@ que o plano foi orquestrado por Petyr "Mindinho" Baelish.
 ![Eddard Stark no momento da sua execução](/assets/article_images/2016-05-03-as-10-maiores-mortes-de-as-cronicas-de-gelo-e-fogo/eddard-stark.jpg)
 Visto como o principal personagem da primeira fase da saga, Eddard Stark era um sinal de honra e compromisso para com o reino. Sua morte foi um grande choque para todos, desencadeando os principais eventos dos livros.
 
-Ned, como também era conhecido, descobriu que todos os três filhos legítimos de Robert eram, na verdade, fruto do incesto entre Cersei Lannister e seu irmão Jaime, o Regicida. Após a morte de Robert Baratheon, Ned foi acusado de traição e presos nas masmorras da Fortaleza Vermelha.
+Ned, como também era conhecido, descobriu que todos os três filhos legítimos de Robert eram, na verdade, fruto do incesto entre Cersei Lannister e seu irmão Jaime, o Regicida. Após a morte de Robert Baratheon, Ned foi acusado de traição e preso nas masmorras da Fortaleza Vermelha.
 
 Com a intensão de salvar sua filha Sansa, que se encontrava sob custódia dos Lannister, Eddard aceitou o acordo de fazer uma falsa confissão e se juntar à Patrulha da Noite, porém o Rei Joffrey
 surpreendeu à todos mandando que sua cabeça fosse arrancada e pendurada em estacas no alto das muralhas para que todos, inclusive Sansa, vissem.
@@ -87,7 +87,7 @@ surpreendeu à todos mandando que sua cabeça fosse arrancada e pendurada em est
 Tywin Lannister foi o líder da Casa Lannister e um dos maiores estrategistas de Westeros. 
 
 Após julgar e punir Tyrion, seu filho com quem nunca teve um bom relacionamento, pelo assassinato de Joffrey Baratheon,
-Tywin foi pego de surpresa (e em uma situação nada digna) ao ser confrontado por Tyrion, que havia sido libertado pelo irmão Jaime. 
+Tywin foi pego de surpresa (e em uma situação nada digna) ao ser confrontado em seu banheiro por Tyrion, que havia sido libertado pelo irmão Jaime. 
 
 Por não enxergar seu filho como uma ameaça à altura, confessou ter dormido com sua amante e a chamou de prostituta, fato esse que Tyrion não perdoou, surpreendendo-o com uma flecha de besta cravada em seu peito.
 

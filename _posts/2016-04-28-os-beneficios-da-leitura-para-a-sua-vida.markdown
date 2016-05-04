@@ -11,7 +11,7 @@ image2: /assets/article_images/2016-04-28-os-beneficios-da-leitura-para-a-sua-vi
 Em um mundo onde plataformas de entreterimento como Facebook e Instagram se tornaram praticamente onipresentes na vida das pessoas, 
 o número de leitores assíduos tem se extinguido cada vez mais nos últimos tempos.
 
-Isso não significa necessariamente que a aquela paixão por novas histórias e aquela sensação boa de comprar um livro também
+Isso não significa necessariamente que aquela paixão por novas histórias e aquela sensação boa de comprar um livro também
 se apagaram, mas sim que as nossas prioridades vêm sofrendo uma considerável mudança.
 
 A verdade é que o acesso a essas redes sociais, na maioria das vezes,
